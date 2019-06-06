@@ -3,7 +3,7 @@ package com.calculator.operations.impl;
 import com.calculator.operations.MathematicalOperationsI;
 
 public class MathOperations implements MathematicalOperationsI {
-
+//For Addition
 	@Override
 	public int add(int a, int b) {
 		return a+b;
